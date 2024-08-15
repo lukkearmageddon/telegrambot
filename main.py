@@ -1,7 +1,6 @@
 import logging
 import asyncio
 import sqlite3
-import time
 
 import stripe
 from configure import config
